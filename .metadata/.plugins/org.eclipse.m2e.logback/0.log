@@ -1,0 +1,666 @@
+2025-03-27 20:22:45,517 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-03-27 20:23:30,990 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.exemplo:automatizado:1.0-SNAPSHOT @ C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\pom.xml.
+2025-03-27 20:23:33,467 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automatizado/src/main/java
+2025-03-27 20:23:33,471 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /automatizado/src/main/resources
+2025-03-27 20:23:33,473 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automatizado/src/test/java
+2025-03-27 20:23:33,475 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /automatizado/src/test/resources
+2025-03-27 20:23:33,863 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2025-03-27 20:23:36,454 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:23:36,483 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-27 20:23:36,505 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:23:36,507 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-27 20:38:21,967 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:38:21,970 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-27 20:38:21,980 [Worker-10: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:38:21,981 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-27 20:40:27,969 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:40:27,971 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-27 20:40:27,983 [Worker-18: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:40:27,985 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-27 20:45:19,001 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:45:19,002 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-27 20:45:19,007 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:45:19,008 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-27 20:47:15,194 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:47:15,196 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-27 20:47:15,200 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:47:15,202 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-27 20:47:26,092 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:47:26,094 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-27 20:47:26,102 [Worker-15: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:47:26,103 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-27 20:47:30,561 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:47:30,563 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-27 20:47:30,567 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:47:30,569 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-27 20:58:04,519 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:58:04,521 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-27 20:58:04,524 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-27 20:58:04,526 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 08:54:46,061 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 08:54:46,069 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 08:54:46,075 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 08:54:46,077 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 08:59:52,276 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 08:59:52,278 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 08:59:52,288 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 08:59:52,298 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:01:50,414 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:01:50,415 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:01:50,419 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:01:50,420 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:03:14,055 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:03:14,058 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:03:14,065 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:03:14,067 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:04:14,063 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:04:14,065 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:04:14,070 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:04:14,072 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:06:42,859 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:06:42,860 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:06:42,865 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:06:42,867 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:07:39,029 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:07:39,030 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:07:39,035 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:07:39,036 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:10:01,857 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:10:01,860 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:10:01,864 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:10:01,866 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:11:17,002 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:11:17,003 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:11:17,006 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:11:17,007 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:37:02,229 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:37:02,332 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:37:02,338 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:37:02,340 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:37:12,195 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:37:12,196 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:37:12,205 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:37:12,206 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:41:34,835 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:41:34,837 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:41:34,865 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:41:34,867 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:43:03,450 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:43:03,452 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:43:03,461 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:43:03,463 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:43:56,023 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:43:56,024 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:43:56,028 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:43:56,029 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:44:35,537 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:44:35,539 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:44:35,543 [Worker-45: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:44:35,544 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:47:17,450 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:47:17,451 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:47:17,458 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:47:17,462 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:47:31,798 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:47:31,799 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:47:31,814 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:47:31,815 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:48:44,286 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:48:44,287 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:48:44,291 [Worker-49: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:48:44,292 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:49:54,197 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:49:54,199 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:49:54,202 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:49:54,203 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 09:50:34,573 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:50:34,574 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 09:50:34,578 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 09:50:34,580 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 10:32:44,054 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:32:44,056 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 10:32:44,059 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:32:44,060 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 10:34:43,596 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:34:43,599 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 10:34:43,604 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:34:43,606 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 10:35:23,269 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:35:23,270 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 10:35:23,274 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:35:23,275 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 10:38:11,488 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:38:11,489 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 10:38:11,495 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:38:11,496 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 10:48:43,137 [Worker-62: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:48:43,140 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 10:48:43,149 [Worker-62: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 10:48:43,152 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 11:06:32,899 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:06:32,906 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 11:06:32,911 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:06:32,912 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 11:08:56,981 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:08:56,983 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 11:08:56,987 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:08:56,989 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 11:12:10,347 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:12:10,351 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 11:12:10,358 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:12:10,359 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 11:12:58,383 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:12:58,385 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 11:12:58,396 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:12:58,397 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 11:13:03,650 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating AlunoTest from maven configuration
+2025-03-28 11:14:27,145 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:14:27,146 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 11:14:27,149 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:14:27,150 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 11:15:13,631 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:15:13,632 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\main\resources
+2025-03-28 11:15:13,636 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:15:13,638 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\automatizado\src\test\resources
+2025-03-28 11:28:13,342 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-28 11:28:39,062 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references non-existing project automatizado.
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references non-existing project automatizado.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:28:39,071 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references non-existing project automatizado.
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references non-existing project automatizado.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:28:39,094 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references non-existing project automatizado.
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references non-existing project automatizado.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:28:39,096 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project automatizado.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project automatizado.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:28:39,099 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project automatizado.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project automatizado.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:28:39,130 [Worker-8: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project automatizado.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project automatizado.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1747)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:29:00,308 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.exemplo:automatizado:1.0-SNAPSHOT @ C:\Users\connivia\Desktop\geral\S3\Teste\Teste 2\automatizado\pom.xml.
+2025-03-28 11:29:01,701 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automatizado/src/main/java
+2025-03-28 11:29:01,707 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /automatizado/src/main/resources
+2025-03-28 11:29:01,709 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automatizado/src/test/java
+2025-03-28 11:29:01,712 [Worker-11: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /automatizado/src/test/resources
+2025-03-28 11:29:01,829 [Worker-11: Importing Maven projects] INFO  o.e.m.jdt.internal.UnitTestSupport - Reset launch configuration name: AlunoTest
+2025-03-28 11:29:01,830 [Worker-11: Importing Maven projects] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating AlunoTest from maven configuration
+2025-03-28 11:29:03,129 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2025-03-28 11:29:04,853 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:29:04,857 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\Teste 2\automatizado\src\main\resources
+2025-03-28 11:29:04,908 [Worker-16: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:29:04,909 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\Teste 2\automatizado\src\test\resources
+2025-03-28 11:29:42,254 [Worker-16: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:29:42,256 [Worker-16: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:29:42,283 [Worker-16: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:29:42,286 [Worker-16: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:29:42,287 [Worker-16: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:29:42,294 [Worker-16: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:31:22,654 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.exemplo:automatizado:1.0-SNAPSHOT @ C:\Users\connivia\Desktop\geral\S3\Teste\Teste 2\automatizado\pom.xml.
+2025-03-28 11:33:17,670 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-03-28 11:33:18,098 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.exemplo:automatizado:1.0-SNAPSHOT @ C:\Users\connivia\Desktop\geral\S3\Teste\Teste 2\automatizado\pom.xml.
+2025-03-28 11:33:18,336 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automatizado/src/main/java
+2025-03-28 11:33:18,337 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /automatizado/src/main/resources
+2025-03-28 11:33:18,338 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /automatizado/src/test/java
+2025-03-28 11:33:18,340 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /automatizado/src/test/resources
+2025-03-28 11:33:18,362 [Worker-14: Updating Maven Project] INFO  o.e.m.jdt.internal.UnitTestSupport - Reset launch configuration name: AlunoTest
+2025-03-28 11:33:18,362 [Worker-14: Updating Maven Project] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating AlunoTest from maven configuration
+2025-03-28 11:33:18,999 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2025-03-28 11:33:19,356 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:33:19,361 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\Teste 2\automatizado\src\main\resources
+2025-03-28 11:33:19,371 [Worker-19: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-28 11:33:19,373 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\connivia\Desktop\geral\S3\Teste\Teste 2\automatizado\src\test\resources
+2025-03-28 11:33:56,950 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [637])
+2025-03-28 11:33:56,953 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-03-28 11:33:56,954 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-03-28 11:33:56,954 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-03-28 11:33:56,954 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-03-28 11:33:56,955 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-03-28 11:33:56,955 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-03-28 11:33:56,956 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-03-28 11:33:56,957 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-03-28 11:33:56,957 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-03-28 11:33:56,957 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-03-28 11:33:56,957 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-03-28 11:33:56,958 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-03-28 11:33:56,958 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-03-28 11:33:56,959 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-03-28 11:33:56,959 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-03-28 11:33:56,959 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-03-28 11:33:56,960 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-03-28 11:33:56,960 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-03-28 11:33:56,960 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-03-28 11:33:56,960 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-03-28 11:33:56,960 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-03-28 11:33:56,960 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-03-28 11:33:56,961 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-03-28 11:33:56,961 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-03-28 11:33:56,961 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-03-28 11:33:56,962 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-03-28 11:33:56,962 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-03-28 11:33:56,962 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-03-28 11:33:56,962 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-03-28 11:33:56,963 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-03-28 11:33:56,963 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-03-28 11:33:56,963 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-03-28 11:33:56,964 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-03-28 11:33:56,964 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-03-28 11:33:56,964 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-03-28 11:33:56,964 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-03-28 11:33:56,965 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-03-28 11:33:56,965 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-03-28 11:33:56,965 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-03-28 11:33:56,965 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-03-28 11:33:56,966 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-03-28 11:33:56,966 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-03-28 11:33:56,966 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-03-28 11:33:56,966 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-03-28 11:33:56,969 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.0.jre [16])
+2025-03-28 11:33:56,970 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\com.google.guava_33.4.0.jre.jar
+2025-03-28 11:33:56,970 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1004])
+2025-03-28 11:33:56,971 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2025-03-28 11:33:56,971 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2025-03-28 11:33:56,971 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-03-28 11:33:56,971 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2025-03-28 11:33:56,972 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2025-03-28 11:33:56,972 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [74])
+2025-03-28 11:33:56,972 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-03-28 11:33:56,972 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [76])
+2025-03-28 11:33:56,972 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-03-28 11:33:56,973 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-03-28 11:33:56,973 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\connivia\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-03-28 11:33:56,978 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\connivia\Desktop\geral\S3\Teste\Teste 2\automatizado":
+2025-03-28 11:33:56,979 [Worker-20: Launching Executing test in C__Users_connivia_Desktop_geral_S3_Teste_Teste 2_automatizado] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always test
+2025-03-28 11:34:46,856 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:34:46,858 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:34:46,888 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlunoTest references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration AlunoTest references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:34:46,890 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:34:46,892 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2025-03-28 11:34:46,901 [Worker-20: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references closed project automatizado
+org.eclipse.core.runtime.CoreException: Launch configuration App references closed project automatizado
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1870)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1744)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:66)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:52)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:137)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
